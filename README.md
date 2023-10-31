@@ -1,6 +1,10 @@
 # Iris_Flower_Classification.github.io
 
-https://github.com/shiva201/Iris_Flower_Classification.github.io.git
+
+github : https://github.com/Shape-Of-AI-Bricks/Flower_iris.git
+
+colab : https://colab.research.google.com/drive/1YKiuhLPnzeiGpk2i33vlvre1RN1kW-8r?usp=sharing
+
 
 The Iris flower classification is a classic machine learning problem used for educational and benchmarking purposes. The goal of this task is to categorize iris flowers into one of three species based on measurements of their sepals and petals.
 
